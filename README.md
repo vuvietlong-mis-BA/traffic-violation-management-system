@@ -83,5 +83,14 @@ Screens designed for **Traffic Enforcement Officer** actor:
 `UML` `IFD` `BFD` `Context Diagram` `DFD` `ERD` `Functional Analysis`
 
 ---
-
 ## 📁 Project Structure
+
+- 📁 `documents` — BRD, SRS, Scope Statement  
+- 📁 `diagrams` — IFD, BFD, Context Diagram, DFD, ERD  
+- 📁 `database` — SQL schema scripts  
+- 📁 `ui-design` — Figma screenshots  
+
+---
+
+## 🏆 Result
+**Instructor Evaluation: 9.8 / 10**
