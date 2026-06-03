@@ -85,7 +85,7 @@ Screens designed for **Traffic Enforcement Officer** actor:
 ---
 ## 📁 Project Structure
 
-- 📁 `documents` — BRD, SRS, Scope Statement  
+- 📁 `documents` — Scope Statement  
 - 📁 `diagrams` — IFD, BFD, Context Diagram, DFD, ERD  
 - 📁 `database` — SQL schema scripts  
 - 📁 `ui-design` — Figma screenshots  
